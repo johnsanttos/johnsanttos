@@ -1,4 +1,4 @@
-<h1 align="left">Hello there! <img src="https://github.com/johnsanttos.png" height= "50px" width="40px"> I'm John Santos 🤓</h1>
+<h1 align="left">Hello there!  height= "50px" width="40px"> I'm John Santos 🤓</h1>
 
 ###I'm Front-End Developer at @Conecto
 
@@ -14,6 +14,14 @@
 
 </div> 
   
+   # Mainly focusing on learning:
+<img alt="Patrick-VueJs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /><img alt="Patrick-NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img alt="Patrick-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img alt="Patrick-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="Patrick-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="Patrick-React" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="Patrick-Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img alt="Patrick-Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 
 # Social Medias:
   
